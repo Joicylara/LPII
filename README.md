@@ -2,11 +2,11 @@
 Exercícios realizados durante as aulas para fixação do conteúdo
 
 # Conteúdo
-  * CRUD-Curso
-  * CRUD-Curso-vo
+  * CRUD Curso
+  * CRUD Curso vo
   * Mapeamento JPA
-  * Mapeamento JPA-Herança
-  * JPA-Camadas
+  * Mapeamento JPA - Herança
+  * JPA Camadas
   * Manipulação BD com JPA
   * Manipulação BD JDBC
   * Mapeamento de Relações
